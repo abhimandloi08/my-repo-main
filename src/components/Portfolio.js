@@ -12,6 +12,18 @@ const Portfolio = () => {
       image: `${process.env.PUBLIC_URL}/podcastmonkey.png`, // Full-page screenshot
     },
     {
+      title: "Raan Cotton",
+      description: "​RAAN offers eco-friendly, unbleached cotton wipes—plastic-free, biodegradable, and gentle for all ages.​",
+      link: "https://raan.com/",
+      image: `${process.env.PUBLIC_URL}/raan-cotton.png`,
+    },
+    {       
+      title: "DesMirage",
+      description: "Desmirage offers high-quality perfumes inspired by luxury fragrances, crafted with organic ingredients and eco-friendly packaging .​",
+      link: "https://www.desmirage.com/",
+      image: `${process.env.PUBLIC_URL}/desmirage.png`,
+    },
+    {
       title: "Appa Life",
       description: "AppaLife offers caffeine-free, mushroom-based energy shots for natural, jitter-free focus and vitality.",
       link: "https://www.appalife.com/",
@@ -92,11 +104,15 @@ const Portfolio = () => {
         <div className="all-link">
 
         <a className="link-website" href="https://reviglow.com/" target="_blank" rel="noopener noreferrer">Revi Glow</a>
+        <a className="link-website" href="https://hookyaproducts.com/" target="_blank" rel="noopener noreferrer">Hook Ya</a>
         <a className="link-website" href="https://strongrrsupplements.com/" target="_blank" rel="noopener noreferrer">Strongrr</a>
         <a className="link-website" href="https://naturefusionglow.com/" target="_blank" rel="noopener noreferrer">Nature Fusion Glow</a>
+        <a className="link-website" href="https://everwellhemp.com/" target="_blank" rel="noopener noreferrer">Everwell Hamp</a>
         <a className="link-website" href="https://getmindright.com/" target="_blank" rel="noopener noreferrer">Mind Right</a>
         <a className="link-website" href="https://greenvirginproducts.com/" target="_blank" rel="noopener noreferrer">Green Virgin</a>
+
         <a className="link-website" href="https://www.desmirage.com/" target="_blank" rel="noopener noreferrer">DesMirage</a>
+        <a className="link-website" href="https://strongrrsupplements.com/" target="_blank" rel="noopener noreferrer">Strongrr</a>
         </div>
       </div>
 
