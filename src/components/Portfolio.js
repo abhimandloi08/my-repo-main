@@ -112,7 +112,15 @@ const Portfolio = () => {
         <a className="link-website" href="https://greenvirginproducts.com/" target="_blank" rel="noopener noreferrer">Green Virgin</a>
 
         <a className="link-website" href="https://www.desmirage.com/" target="_blank" rel="noopener noreferrer">DesMirage</a>
-        <a className="link-website" href="https://strongrrsupplements.com/" target="_blank" rel="noopener noreferrer">Strongrr</a>
+        <a className="link-website" href="https://www.casesbysource.com/" target="_blank" rel="noopener noreferrer">Cases By Source</a>
+        <a className="link-website" href="https://thepowerfit.com/" target="_blank" rel="noopener noreferrer">Power Fit </a>
+        <a className="link-website" href="https://runur.run/" target="_blank" rel="noopener noreferrer">Runer Run</a>
+        <a className="link-website" href="https://bddbrands.com/" target="_blank" rel="noopener noreferrer">BDD Brands </a>
+        <a className="link-website" href="https://www.colorlabtransfers.com/" target="_blank" rel="noopener noreferrer">ColorLab Transfer</a>
+        <a className="link-website" href="https://ipsopromo.com/pages/landing-page" target="_blank" rel="noopener noreferrer">Ipso Facto</a>
+        <a className="link-website" href="https://purpetco.com/" target="_blank" rel="noopener noreferrer">PurPet </a>
+        <a className="link-website" href="https://healthvape.com/" target="_blank" rel="noopener noreferrer">Health vape</a>
+        <a className="link-website" href="https://leefyorganics.com/" target="_blank" rel="noopener noreferrer">Leefy organics</a>
         </div>
       </div>
 
