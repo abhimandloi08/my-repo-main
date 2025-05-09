@@ -173,7 +173,7 @@
 }
 @media(max-width:550px){
   .modal-content {
-  width: 50%;
+  width: 80%;
 }
   .portfolio-bottom{
     margin: 20px 0;
