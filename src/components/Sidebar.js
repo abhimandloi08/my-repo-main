@@ -56,7 +56,7 @@ function Sidebar({ isOpen, toggleSidebar }) {
             <a href="https://wa.me/918720069456" target="_blank" rel="noopener noreferrer">
               <FaWhatsapp />
             </a>
-            <a href="https://www.instagram.com/__.abhi__8x" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/__.abhi__8" target="_blank" rel="noopener noreferrer">
               <FaInstagram />
             </a>
           </div>
