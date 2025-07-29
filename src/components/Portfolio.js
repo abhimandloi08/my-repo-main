@@ -24,6 +24,12 @@ const Portfolio = () => {
       image: `${process.env.PUBLIC_URL}/elite-honey.png`,
     },
      {
+      title: "Wellmedr",
+      description: "WellMedR provides personalized, FDA-approved treatments online for hair loss, weight, hormones, and sexual wellness.​",
+      link: "https://www.wellmedr.com/",
+      image: `${process.env.PUBLIC_URL}/wellmedr.png`,
+    },
+     {
       title: "Raan Cotton",
       description: "​RAAN offers eco-friendly, unbleached cotton wipes—plastic-free, biodegradable, and gentle for all ages.​",
       link: "https://raan.com/",
